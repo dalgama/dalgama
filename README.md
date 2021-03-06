@@ -1,7 +1,11 @@
 ## Hi there, I'm Dilanga <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.linkedin.com/in/dilanga-algama-72752816b">
-  <img  alt="Dilanga's Linkedin" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
+  <img  alt="Dilanga's Linkedin" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://discord.gg/nrqmVfFJ">
+  <img alt="Dilanga's Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"/>
+</a>
 <a href="https://github.com/dalgama">
   <img alt="Dilanga Algama | Github" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
 </a>
