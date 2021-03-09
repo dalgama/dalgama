@@ -6,10 +6,14 @@
 <a href="https://discord.gg/nrqmVfFJ">
   <img alt="Dilanga's Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"/>
 </a>
-<a href="https://github.com/dalgama">
-  <img alt="Dilanga Algama | Github" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
-</a>
-<p></p>
+<p>
+  <a href="https://www.linkedin.com/in/dilanga-algama">
+    <img alt="Dilanga's Linkedin" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://discord.gg/nrqmVfFJ">
+    <img alt="Dilanga's Discord" src="https://img.shields.io/badge/%3CServer%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>
 <h3>About me</h3>
 <hr>
 <p>I’m a passionate self-taught Full Stack web developer and game implementer from Canada 🇨🇦. My passion for Web development lies in finding new ideas and finding ways in accomplishing them. I find it interesting to implement website services that I find interesting and to see what steps it requires the reach the end product. I put a lot of effect into the experience and code quality of my work to practice good coding practices making my code easy to understand by other coders and developers.</p>
