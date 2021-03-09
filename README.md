@@ -10,7 +10,7 @@
   <img alt="Dilanga Algama | Github" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
 </a>
 <p></p>
-### About me
+<h3>About me</h3>
 <p>I’m a passionate self-taught Full Stack web developer and game implementer from Canada. My passion for Web development lies in finding new ideas and finding ways in accomplishing them. I find it interesting to implement website services that I find interesting and to see what steps it requires the reach the end product. I put a lot of effect into the experience and code quality of my work to practice good coding practices making my code easy to understand by other coders and developers.</p>
 
 <p>I am an open minded developer who is willing to give anything someone suggest building a try and listening to peoples ideas about what more the internet can offer to them personal. This helps me create ideas of what I can work on next during my free time.</p>
