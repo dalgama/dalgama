@@ -9,11 +9,11 @@
 </p>
 <hr>
 <h3>About me</h3>
-<p>I’m a passionate Computer Science graduate and self-taught Full-Stack Web Developer and game implementer from Canada 🇨🇦. My passion for Web development lies in finding new ideas and finding ways in accomplishing them. I find it interesting to implement website services that I find interesting and to see what steps it requires the reach the end product. I put a lot of effect into the experience and code quality of my work to practice good coding practices making my code easy to understand by other coders and developers.</p>
+<p>I’m a passionate Honors Computer Science graduate and self-taught Full-Stack Software/Web Developer and game implementer from Canada 🇨🇦. My passion for Web and Software development lies in finding new ideas and finding ways to accomplish them. I find it interesting to implement website services that I find interesting and to see what steps it requires the reach the end product. I put a lot of effort into the experience and code quality of my work to practice good coding practices making my code easy to understand for coders and developers.</p>
 
-<p>I am an open minded developer who is willing to give anything someone suggest building a try and listening to peoples ideas about what more the internet can offer to them personal. This helps me create ideas of what I can work on next during my free time.</p>
+<p>I am an open-minded developer who is willing to give anything someone suggests building a try and listening to people's ideas about what more the internet can offer to them personally. This helps me create ideas of what I can work on next during my free time.</p>
 
-<p>I really enjoy teaching people, conveying my knowledge and make sure to go that extra mile to make sure whoever I teach really understands the reasoning behind the steps they’re doing or the steps I mention.</p>
+<p>I really enjoy teaching people, conveying my knowledge and making sure to go that extra mile to make sure whoever I teach really understands the reasoning behind the steps they’re doing or the steps I mention.</p>
 
 <hr>
 <h3>Programming Languages I have worked on ...</h3>
