@@ -51,7 +51,7 @@
 </p>
 
 <hr>
-<h3>Datebase Platform I have used ...</h3>
+<h3>Datebase platforms I have used ...</h3>
 <p>
   <img style = "float:left" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
   <img style = "float:left" alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -59,7 +59,7 @@
 </p>
 
 <hr>
-<h3>Content Management System I have used ...</h3>
+<h3>Content Management Systems I have used ...</h3>
 <p>
   <img alt="DRUPAL" src="https://img.shields.io/badge/Drupal-0678BE?&style=for-the-badge&logo=drupal&logoColor=white"/>
   <img alt="WORDPRESS" src="https://img.shields.io/badge/wordpress-21759B?&style=for-the-badge&logo=wordpress&logoColor=white"/>
