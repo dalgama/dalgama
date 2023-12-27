@@ -62,7 +62,7 @@
 <h3>Content Management System I have used ...</h3>
 <p>
   <img alt="DRUPAL" src="https://img.shields.io/badge/Drupal-0678BE?&style=for-the-badge&logo=drupal&logoColor=white"/>
-  <img alt="WORDPRESS" src="https://img.shields.io/badge/wordpress-21759B?&style=for-the-badge&logo=bitbucket&logoColor=white"/>
+  <img alt="WORDPRESS" src="https://img.shields.io/badge/wordpress-21759B?&style=for-the-badge&logo=wordpress&logoColor=white"/>
 </p>
 
 <hr>
