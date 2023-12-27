@@ -30,6 +30,7 @@
   <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img alt="VUE.JS" src="https://img.shields.io/badge/Vue.js-4FC08D?&style=for-the-badge&logo=vue.js&logoColor=white"/>
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
@@ -55,6 +56,13 @@
   <img style = "float:left" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
   <img style = "float:left" alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img style = "float:left" alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+<hr>
+<h3>Content Management System I have used ...</h3>
+<p>
+  <img alt="DRUPAL" src="https://img.shields.io/badge/Drupal-0678BE?&style=for-the-badge&logo=drupal&logoColor=white"/>
+  <img alt="WORDPRESS" src="https://img.shields.io/badge/wordpress-21759B?&style=for-the-badge&logo=bitbucket&logoColor=white"/>
 </p>
 
 <hr>
