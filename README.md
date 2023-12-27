@@ -9,11 +9,15 @@
 </p>
 <hr>
 <h3>About me</h3>
-<p>I’m a passionate Honors Computer Science graduate and self-taught Full-Stack Software/Web Developer and game implementer from Canada 🇨🇦. My passion for Web and Software development lies in finding new ideas and finding ways to accomplish them. I find it interesting to implement website services that I find interesting and to see what steps it requires the reach the end product. I put a lot of effort into the experience and code quality of my work to practice good coding practices making my code easy to understand for coders and developers.</p>
+<p>I am an enthusiastic Honors Computer Science graduate and a self-taught Full-Stack Software/Web Developer with a strong foundation in both theory and practical application. Hailing from the vibrant tech landscape of Canada 🇨🇦, I am fueled by a fervent passion for turning innovative ideas into reality. My journey in Web and Software development is not just a profession; it's a quest to explore the uncharted realms of creativity and efficiency.</p>
 
-<p>I am an open-minded developer who is willing to give anything someone suggests building a try and listening to people's ideas about what more the internet can offer to them personally. This helps me create ideas of what I can work on next during my free time.</p>
+<p>What captivates me about this field is the thrill of implementing website services from conceptualization to the final product. I relish the challenge of navigating the intricate steps required to bring an idea to fruition, placing a significant emphasis on elevating the overall user experience and ensuring the highest standards of code quality. By adhering to best coding practices, I strive to create code that is not only functional but also comprehensible, fostering collaboration among fellow coders and developers.</p>
 
-<p>I really enjoy teaching people, conveying my knowledge and making sure to go that extra mile to make sure whoever I teach really understands the reasoning behind the steps they’re doing or the steps I mention.</p>
+<p>As an open-minded developer, I embrace new challenges and eagerly explore ideas suggested by others. Engaging with people to understand their visions for the internet fuels my own creativity, sparking ideas that I eagerly pursue during my free time. I believe in the transformative power of technology and continually seek opportunities to contribute to its evolution.</p>
+
+<p>Teaching is another facet of my passion, and I take great joy in imparting my knowledge. I go the extra mile to ensure that those I teach not only grasp the technical steps but also comprehend the underlying reasoning. This commitment to fostering understanding reflects my dedication to cultivating a community of informed and empowered developers.</p>
+
+<p>In essence, I am not just a developer; I am a curious explorer, an advocate for innovation, and a dedicated educator, driven by the belief that the possibilities within the world of technology are limitless.</p>
 
 <hr>
 <h3>Programming Languages I have worked on ...</h3>
