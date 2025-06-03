@@ -9,15 +9,13 @@
 </p>
 <hr>
 <h3>About me</h3>
-<p>I am an enthusiastic Honors Computer Science graduate and a Full-Time Full-Stack Software/Web Developer with a strong foundation in both theory and practical application. Hailing from the vibrant tech landscape of Canada 🇨🇦, I am fueled by a sincere passion for turning innovative ideas into reality. My journey in Web and Software development is not just a profession; it's a quest to explore the uncharted realms of creativity and efficiency.</p>
+<p>I am an Honors Computer Science graduate from the University of Ottawa and, since 2021, a Full-Time Full-Stack Software/Web Developer for the University. I have a strong foundation in both theory and practical application. Hailing from the vibrant tech landscape of Canada 🇨🇦, I am fueled by a sincere passion for turning innovative ideas into reality. My journey in Web and Software development is not just a profession; it's a quest to explore the uncharted realms of creativity and efficiency.</p>
 
 <p>What captivates me about this field is the thrill of implementing website services from conceptualization to the final product. I relish the challenge of navigating the intricate steps required to bring an idea to fruition, emphasizing elevating the overall user experience and ensuring the highest standards of code quality. By adhering to best coding practices, I strive to create code that is not only functional but also understandable, fostering collaboration among fellow coders and developers.</p>
 
-<p>As an open-minded developer, I embrace new challenges and eagerly explore ideas suggested by others. Engaging with people to understand their visions for the internet fuels my creativity, sparking ideas that I eagerly pursue during my free time. I believe in the transformative power of technology and continually seek opportunities to contribute to its evolution.</p>
+<p>As an open-minded developer, I embrace new challenges and eagerly explore ideas suggested by others. Engaging with people to understand their visions for the internet fuels my creativity, sparking ideas that I pursue during my free time. I believe in the transformative power of technology and continually seek opportunities to contribute to its evolution.</p> 
 
-<p>Teaching is another facet of my passion, and I take great joy in imparting my knowledge. I go the extra mile to ensure that those I teach not only grasp the technical steps but also comprehend the underlying reasoning. This commitment to fostering understanding reflects my dedication to cultivating a community of informed and empowered developers.</p>
-
-<p>In essence, I am not just a developer; I am a curious explorer, an advocate for innovation, and a dedicated educator, driven by the belief that the possibilities within the world of technology are limitless.</p>
+<p>Teaching is another facet of my passion, and I take great joy in imparting my knowledge. I go the extra mile to ensure that those I teach not only grasp the technical steps but also comprehend the underlying reasoning. This commitment to fostering understanding reflects my dedication to cultivating a community of informed and empowered developers.</p> <p>In essence, I am not just a developer; I am a curious explorer, an advocate for innovation, and a dedicated educator, driven by the belief that the possibilities within the world of technology are limitless.</p>
 
 <hr>
 <h3>Programming Languages I have worked on ...</h3>
