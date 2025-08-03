@@ -9,13 +9,17 @@
 </p>
 <hr>
 <h3>About me</h3>
-<p>I am an Honors Computer Science graduate from the University of Ottawa and, since 2021, a Full-Time Full-Stack Software/Web Developer for the University. I have a strong foundation in both theory and practical application. Hailing from the vibrant tech landscape of Canada 🇨🇦, I am fueled by a sincere passion for turning innovative ideas into reality. My journey in Web and Software development is not just a profession; it's a quest to explore the uncharted realms of creativity and efficiency.</p>
+<p>I’m an Honors Computer Science graduate from the University of Ottawa, currently working full-time as a Full-Stack Software Developer with the University’s MedTech team. Since 2021, I’ve been building and optimizing enterprise-grade applications.</p>
 
-<p>What captivates me about this field is the thrill of implementing website services from conceptualization to the final product. I relish the challenge of navigating the intricate steps required to bring an idea to fruition, emphasizing elevating the overall user experience and ensuring the highest standards of code quality. By adhering to best coding practices, I strive to create code that is not only functional but also understandable, fostering collaboration among fellow coders and developers.</p>
+<p>Rooted in the innovative tech scene of Canada 🇨🇦, I bring over 6 years of hands-on experience in full-stack development, cloud deployment, and UX-focused web engineering. My technical stack spans PHP, JavaScript, Python, React, Vue.js, Laravel, and databases like MariaDB and PostgreSQL. I’ve also explored AI/ML through projects such as neural information retrieval and AI-integrated customer support tools.</p>
 
-<p>As an open-minded developer, I embrace new challenges and eagerly explore ideas suggested by others. Engaging with people to understand their visions for the internet fuels my creativity, sparking ideas that I pursue during my free time. I believe in the transformative power of technology and continually seek opportunities to contribute to its evolution.</p> 
+<p>What drives me is the thrill of building digital solutions from the ground up, translating abstract ideas into polished, user-friendly products. I’m passionate about scalable design, clean code, and delivering tangible impact. Whether it’s deploying a mobile app, enhancing database performance, or consulting with local businesses on UX and SEO, I approach every challenge with curiosity and care.</p>
 
-<p>Teaching is another facet of my passion, and I take great joy in imparting my knowledge. I go the extra mile to ensure that those I teach not only grasp the technical steps but also comprehend the underlying reasoning. This commitment to fostering understanding reflects my dedication to cultivating a community of informed and empowered developers.</p> <p>In essence, I am not just a developer; I am a curious explorer, an advocate for innovation, and a dedicated educator, driven by the belief that the possibilities within the world of technology are limitless.</p>
+<p>I’m also a strong advocate for knowledge sharing. I’ve led training sessions for webmasters, created instructional content for users, and enjoy teaching in a way that balances technical clarity with deeper conceptual understanding.</p>
+
+<p>Outside of work, I enjoy diving into side projects that explore AI, NLP, and cloud-native development. I’m always looking for meaningful ways to contribute to open-source, collaborate with other developers, and stay at the edge of what’s next in tech.</p>
+
+<p>To me, being a developer means more than writing code. It's about building solutions, mentoring others, and constantly learning. The tech world is vast and evolving, and I’m here for the ride.</p>
 
 <hr>
 <h3>Programming Languages I have worked on ...</h3>
