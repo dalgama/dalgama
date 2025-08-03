@@ -9,7 +9,7 @@
 </p>
 <hr>
 <h3>About me</h3>
-<p>I’m an Honors Computer Science graduate from the University of Ottawa, currently working full-time as a Full-Stack Software Developer with the University’s MedTech team. Since 2021, I’ve been building and optimizing enterprise-grade applications.</p>
+<p>I’m an Honors Computer Science and minor in Business Management graduate from the University of Ottawa, currently working full-time as a Full-Stack Software Developer with the University’s MedTech team. Since 2021, I’ve been building and optimizing enterprise-grade applications.</p>
 
 <p>Rooted in the innovative tech scene of Canada 🇨🇦, I bring over 6 years of hands-on experience in full-stack development, cloud deployment, and UX-focused web engineering. My technical stack spans PHP, JavaScript, Python, React, Vue.js, Laravel, and databases like MariaDB and PostgreSQL. I’ve also explored AI/ML through projects such as neural information retrieval and AI-integrated customer support tools.</p>
 
