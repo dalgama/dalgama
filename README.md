@@ -1,4 +1,5 @@
 ## Hi there, I'm Dilanga <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 <p>
   <a href="https://www.linkedin.com/in/dilanga-algama">
     <img alt="Dilanga's Linkedin" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -7,22 +8,42 @@
     <img alt="Dilanga's Discord" src="https://img.shields.io/badge/%3CServer%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
+
 <hr>
+
 <h3>About me</h3>
-<p>I’m an Honors Computer Science and minor in Business Management graduate from the University of Ottawa, currently working full-time as a Full-Stack Software Developer with the University’s MedTech team. Since 2021, I’ve been building and optimizing enterprise-grade applications.</p>
 
-<p>Rooted in the innovative tech scene of Canada 🇨🇦, I bring over 6 years of hands-on experience in full-stack development, cloud deployment, and UX-focused web engineering. My technical stack spans PHP, JavaScript, Python, React, Vue.js, Laravel, and databases like MariaDB and PostgreSQL. I’ve also explored AI/ML through projects such as neural information retrieval and AI-integrated customer support tools.</p>
+<p>
+  I’m a Software Developer at the University of Ottawa (Faculty of Medicine), working on full-stack web platforms like
+  <strong>Elentra ME</strong> and <strong>UGME Admissions</strong>. I build and maintain data-heavy systems that support learners,
+  curriculum teams and admissions workflows.
+</p>
 
-<p>What drives me is the thrill of building digital solutions from the ground up, translating abstract ideas into polished, user-friendly products. I’m passionate about scalable design, clean code, and delivering tangible impact. Whether it’s deploying a mobile app, enhancing database performance, or consulting with local businesses on UX and SEO, I approach every challenge with curiosity and care.</p>
+<p>
+  My background combines an Honours BSc in Computer Science with a minor in Business Management from the University of Ottawa 🇨🇦, and
+  several years of hands-on experience in full-stack development, cloud deployment and UX-focused engineering. I work primarily with
+  PHP/Laravel, JavaScript, React, Vue.js, Python and databases such as MariaDB and PostgreSQL.
+</p>
 
-<p>I’m also a strong advocate for knowledge sharing. I’ve led training sessions for webmasters, created instructional content for users, and enjoy teaching in a way that balances technical clarity with deeper conceptual understanding.</p>
+<p>
+  I’m especially interested in generative AI and automation – from neural information retrieval to AI-assisted customer support tools
+  and workflow automation. I like turning messy, real-world data and processes into reliable, maintainable systems.
+</p>
 
-<p>Outside of work, I enjoy diving into side projects that explore AI, NLP, and cloud-native development. I’m always looking for meaningful ways to contribute to open-source, collaborate with other developers, and stay at the edge of what’s next in tech.</p>
+<p>
+  I’ve led training sessions for webmasters, created instructional content for non-technical users, and enjoy explaining technical
+  topics in a way that’s practical and easy to apply. For me, being a developer is about more than writing code – it’s about shipping
+  useful products, supporting teams and continuously improving how we work.
+</p>
 
-<p>To me, being a developer means more than writing code. It's about building solutions, mentoring others, and constantly learning. The tech world is vast and evolving, and I’m here for the ride.</p>
+<p>
+  Outside of work, I like experimenting with side projects around AI, NLP and cloud-native development, contributing to open source
+  when I can, and staying curious about whatever’s next in tech.
+</p>
 
 <hr>
-<h3>Programming Languages I have worked on ...</h3>
+
+<h3>Programming languages I’ve worked with</h3>
 <p>
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
@@ -38,14 +59,16 @@
 </p>
 
 <hr>
-<h3>Server platforms I have used on my site projects ...</h3>
+
+<h3>Server platforms I’ve used on projects</h3>
 <p>
   <img alt="Apache" src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/>
   <img alt="Nginx" src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
 </p>
 
 <hr>
-<h3>Cloud platforms I have used ...</h3>
+
+<h3>Cloud platforms I’ve used</h3>
 <p>
   <img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img alt="Azure" src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white"/>
@@ -53,39 +76,34 @@
 </p>
 
 <hr>
-<h3>Datebase platforms I have used ...</h3>
+
+<h3>Database platforms I’ve used</h3>
 <p>
-  <img style = "float:left" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img style = "float:left" alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img style = "float:left" alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img style="float:left" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img style="float:left" alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img style="float:left" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
+<br clear="both"/>
+
 <hr>
-<h3>Content Management Systems I have used ...</h3>
+
+<h3>Content management systems I’ve used</h3>
 <p>
   <img alt="DRUPAL" src="https://img.shields.io/badge/Drupal-0678BE?&style=for-the-badge&logo=drupal&logoColor=white"/>
   <img alt="WORDPRESS" src="https://img.shields.io/badge/wordpress-21759B?&style=for-the-badge&logo=wordpress&logoColor=white"/>
 </p>
 
 <hr>
-<h3>Version Controls I have practise using ...</h3>
+
+<h3>Version control tools I’ve used</h3>
 <p>
   <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   <img alt="GitLab" src="https://img.shields.io/badge/gitlab-FC6D26?&style=for-the-badge&logo=gitlab&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white"/>
 </p>
+
 <!--
 **dalgama/dalgama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
