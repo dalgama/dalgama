@@ -14,7 +14,7 @@
 <h3>About me</h3>
 
 <p>
-  I’m a Software Developer at the University of Ottawa (Faculty of Medicine), working on full-stack web platforms like
+  I’m a Software Engineer at the University of Ottawa (Faculty of Medicine), working on full-stack web platforms like
   <strong>Elentra ME</strong> and <strong>UGME Admissions</strong>. I build and maintain data-heavy systems that support learners,
   curriculum teams and admissions workflows.
 </p>
